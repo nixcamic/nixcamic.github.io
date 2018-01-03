@@ -1,0 +1,34 @@
+---
+layout: post
+title: Google Earth on GMA 950 in Ubuntu Linux
+tags: []
+---
+
+Google Earth 7 and up require a better video card than a GMA 950, you’ll
+notice this both because of the error it gives you and because you’ll
+just see an outline of the countries and no actual earth. For Mac and
+Windows this isn’t a problem because Google lists all older versions on
+their site. For some reason they’ve decided against listing older
+versions for Linux on the download page, even though they still host
+them on their servers.
+
+After some trial and error with URLs I figured out the download links
+for the Linux packages for 6.2.2 (The last version to work on older
+cards) you can find them below.
+
+[GE 6.2.2 64bit .deb for
+Debian/Ubuntu](http://dl.google.com/earth/client/GE6/release_6_2_2/google-earth-stable_6.2.2.6613-r0_amd64.deb)
+
+[GE 6.2.2 32bit .deb for
+Debian/Ubuntu](http://dl.google.com/earth/client/GE6/release_6_2_2/google-earth-stable_6.2.2.6613-r0_i386.deb)
+
+[GE 6.2.2 64bit .rpm for
+Fedora/CentOS/RHEL](http://dl.google.com/earth/client/GE6/release_6_2_2/google-earth-stable-6.2.2.6613-0.x86_64.rpm)
+
+[GE 6.2.2 32bit .rpm for
+Fedora/CentOS/RHEL](http://dl.google.com/earth/client/GE6/release_6_2_2/google-earth-stable-6.2.2.6613-0.i386.rpm)
+
+These should work fine on older video cards.
+
+[Older versions of Google Earth Pro can be downloaded from
+Here.](http://www.srh.noaa.gov/images/shv/Google/Linux/)

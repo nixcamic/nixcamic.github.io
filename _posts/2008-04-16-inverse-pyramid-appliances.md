@@ -1,0 +1,11 @@
+---
+layout: post
+title: Inverse pyramid appliances
+tags: []
+---
+
+After much dwelling on what to call a band if I were to have one, I have
+decided upon “TopheavyÂ Dishwasher”. It has a nice fullness to it don’t
+you think? If I don’t have a band, but instead a company that makes
+stuff or something, I think the same would also work. InÂ leuÂ of any of
+that, it would make anÂ excellentÂ name for one of my children.
