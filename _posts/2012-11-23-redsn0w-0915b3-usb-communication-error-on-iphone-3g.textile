@@ -1,0 +1,6 @@
+---
+layout: post
+title: redsn0w 0.9.15b3 "Usb communication error" on iPhone 3g
+tags: []
+---
+redsn0w gives a "usb communication error" when used on any iPhone 3g. The solution is to select the IPSW first, or to use 0.9.14b2 instead.
